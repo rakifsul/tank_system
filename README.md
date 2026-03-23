@@ -4,10 +4,6 @@
 
 Project ini adalah template game tank yang dibuat menggunakan Godot Engine.
 
-## Download di Mana
-
-Download project ini pada halaman "Releases".
-
 ## Cara Penggunaan
 
 Buka dengan Godot Engine 3, lalu jalankan scene-nya.
